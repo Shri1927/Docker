@@ -107,3 +107,8 @@ YouTube
 Docker Hub is an online registry.
 
 You can search and download images: e.g., docker pull nginx.
+
+
+docker file se banti hai docker image --> docker image se banta hai docker container.
+
+docker file ko build karne se image bnti hai aur image ko run karne se container bnta hai.
